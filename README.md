@@ -1,11 +1,37 @@
-- 👋 Hi, I’m @karansonimj2001
-- 👀 I’m interested in programming and web development.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on web development work.
-- 📫 How to reach me .
-- here's my email: soni.110051@gmail.com
+## 👋 Hi, I'm Karan Soni
 
-<!---
-karansonimj2001/karansonimj2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Python Full Stack Developer | Frontend Specialist | Entrepreneur
+🚀 Building websites, brands, and businesses with code + creativity.
+📍 From India
+
+## 🌟 About Me
+
+👨‍🎓 Pursuing BCA (Bachelor of Computer Applications)
+
+⚡ 4+ years of practical experience in Python, Web Development & E-commerce
+
+🌍 Freelancer helping startups & businesses build websites, stores, and ad campaigns
+
+## 🛠️ Tech Stack
+
+## Languages:
+Python | JavaScript | HTML5 | CSS3 | Liquid (Shopify)
+
+## Frameworks & Tools:
+Django | Bootstrap | React.js | MySQL | MongoDB | NoSQL
+
+## Platforms & CMS:
+Shopify | WordPress | Wix | Git & GitHub
+
+
+## 📫 Connect with Me
+
+🌐 Portfolio: https://karansonimj2001.github.io/KARAN_PORTFOLIO/
+
+💼 LinkedIn: https://www.linkedin.com/in/karan-soni-/
+
+📧 Email: soni.110051@gmail.com
+
+📱 WhatsApp: +91 9625670484
+
+⭐️ “Code, Create, Conquer.”
