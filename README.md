@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-👨‍🎓 Pursuing BCA (Bachelor of Computer Applications)
+👨‍🎓  BCA (Bachelor of Computer Applications)
 
 ⚡ 4+ years of practical experience in Python, Web Development & E-commerce
 
