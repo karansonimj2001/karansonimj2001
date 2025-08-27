@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Karan Soni
 
-## 💻 Python Full Stack Developer | Frontend Specialist | Entrepreneur
+## 💻 Python Full Stack Developer | Frontend Specialist 
 🚀 Building websites, brands, and businesses with code + creativity.
 📍 From India
 
